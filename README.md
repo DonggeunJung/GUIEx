@@ -5,7 +5,7 @@
 
 [Image1 : Main Screen]
 [Image2 : Change Caption Text]
-[Image2 : Change Scene]
+[Image3 : Change Scene]
 
 <div>
 <img src="https://github.com/DonggeunJung/GUIEx/blob/master/Ext/GUIEx_Capture01.png?raw=true width="400px"></img>
